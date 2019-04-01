@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="mkasn9e4" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="jo110" name="Main.xml" path="/Win/" exported="true"/>
+    <image id="xou75" name="image_main_bg.jpg" path="/Img/"/>
+    <image id="xou77" name="wel.png" path="/Img/"/>
+    <image id="xou78" name="image_win.jpeg" path="/Img/Sun/"/>
+    <image id="xou79" name="563873.png" path="/Img/Main/"/>
+    <image id="xou7a" name="1220121.png" path="/Img/Sun/"/>
+    <component id="xou7b" name="btn_Next.xml" path="/Com/Main/"/>
+    <component id="xou7c" name="Sun.xml" path="/Win/" exported="true"/>
+    <component id="xou7d" name="btn_Return.xml" path="/Com/Sun/"/>
+  </resources>
+  <publish name="03_Game"/>
+</packageDescription>
