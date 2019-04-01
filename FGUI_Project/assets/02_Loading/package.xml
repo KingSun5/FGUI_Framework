@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="mc3lrmwx" jpegQuality="80" compressPNG="true">
   <resources>
-    <component id="xou73" name="Loading.xml" path="/Win/" exported="true"/>
+    <component id="xou73" name="LoadingWin.xml" path="/Win/" exported="true"/>
     <image id="xou74" name="1228141.png" path="/Img/"/>
     <image id="xou75" name="1637197.png" path="/Img/"/>
     <component id="xou76" name="btn_Start.xml" path="/Com/"/>

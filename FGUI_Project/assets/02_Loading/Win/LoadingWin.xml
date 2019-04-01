@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1624,750">
+  <displayList>
+    <image id="n4_xou7" name="img_Bg" src="xou77" fileName="Img/image_bg.jpg" xy="0,0" size="1624,750">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <image id="n2_xou7" name="img_Loading" src="xou74" fileName="Img/1228141.png" xy="684,85" pivot="0.5,0.5">
+      <relation target="" sidePair="top-top,center-center"/>
+    </image>
+    <component id="n3_xou7" name="btn_Start" src="xou76" fileName="Com/btn_Start.xml" xy="684,478" scale="0,0">
+      <relation target="" sidePair="bottom-bottom,center-center"/>
+    </component>
+    <text id="n5_xou7" name="txt_Loading" xy="726,177" size="164,94" fontSize="48" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="100%"/>
+  </displayList>
+  <transition name="tran_ShowBtn">
+    <item time="0" type="Scale" target="n3_xou7" tween="true" startValue="0,0" endValue="1,1" duration="12" ease="Back.Out"/>
+  </transition>
+  <transition name="tran_Loading">
+    <item time="0" type="Rotation" target="n2_xou7" tween="true" startValue="0" endValue="360" duration="48" ease="Linear" repeat="-1"/>
+  </transition>
+  <transition name="tran_ShowLoading">
+    <item time="0" type="Text" target="n5_xou7" value="0%"/>
+    <item time="12" type="Text" target="n5_xou7" value="2%"/>
+    <item time="18" type="Text" target="n5_xou7" value="5%"/>
+    <item time="24" type="Text" target="n5_xou7" value="10%"/>
+    <item time="30" type="Text" target="n5_xou7" value="15%"/>
+    <item time="36" type="Text" target="n5_xou7" value="20%"/>
+    <item time="42" type="Text" target="n5_xou7" value="40%"/>
+    <item time="48" type="Text" target="n5_xou7" value="60%"/>
+    <item time="54" type="Text" target="n5_xou7" value="80%"/>
+    <item time="60" type="Text" target="n5_xou7" value="100%"/>
+  </transition>
+</component>

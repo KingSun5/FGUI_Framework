@@ -1,29 +1,29 @@
 SunFramework_FGUI
 
-ã€åŸºäºFGUIçš„Unity3Dçš„UIæ¡†æ¶ã€‘
+¡¾»ùÓÚFGUIµÄUnity3DµÄUI¿ò¼Ü¡¿
 
-1ã€å­¦ä¹ å¼•ç”¨
+1¡¢Ñ§Ï°ÒıÓÃ
 
 https://github.com/sheenli/YKFrameworkXLUA
 
-2ã€æ ¸å¿ƒæ€æƒ³
+2¡¢ºËĞÄË¼Ïë
 
 ![image](https://github.com/KingSun5/FGUI_Framework/blob/master/images/Core.png)
 
 
-3ã€æ¡†æ¶ç»“æ„
+3¡¢¿ò¼Ü½á¹¹
 
 
 ![image](https://github.com/KingSun5/FGUI_Framework/blob/master/images/FGUIFramework.png)
 
 
-4ã€FGUIç›®å½•ç»“æ„
+4¡¢FGUIÄ¿Â¼½á¹¹
 
 
 ![image](https://github.com/KingSun5/FGUI_Framework/blob/master/images/FGUIPackage.png)
 
 
-5ã€å‘½åè§„èŒƒ
+5¡¢ÃüÃû¹æ·¶
 
 
 ![image](https://github.com/KingSun5/FGUI_Framework/blob/master/images/NamingNotations.png)

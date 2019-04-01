@@ -9,7 +9,7 @@ public class MainWin : UiBase {
 
 	public override string WinName
 	{
-		get { return "Main"; }
+		get { return "MainWin"; }
 	}
 
 	public override string PanelName

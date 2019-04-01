@@ -9,7 +9,7 @@ public class SunWin : UiBase {
 
 	public override string WinName
 	{
-		get { return "Sun"; }
+		get { return "SunWin"; }
 	}
 
 	public override string PanelName
@@ -28,6 +28,6 @@ public class SunWin : UiBase {
 	/// </summary>
 	private void OnClickReturn()
 	{
-		UiManager.Instance.CloseWind("SunWin");
+		UiManager.Instance.ShowWind("MainWin");
 	}
 }

@@ -11,7 +11,7 @@ public class LoadingWin : UiBase {
 	
 	public override string WinName
 	{
-		get { return "Loading"; }
+		get { return "LoadingWin"; }
 	}
 
 	public override string PanelName
